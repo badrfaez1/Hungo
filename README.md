@@ -44,4 +44,4 @@
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/hungo.git
+   git clone https://github.com/badrfaez1/hungo.git
